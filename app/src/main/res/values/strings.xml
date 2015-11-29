@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Modric</string>
+    <string name="action_settings">Settings</string>
+    <string name="a">C</string>
+    <string name="b">DEL</string>
+    <string name="c">*</string>
+    <string name="d">/</string>
+    <string name="e">7</string>
+    <string name="f">8</string>
+    <string name="g">9</string>
+    <string name="h">-</string>
+</resources>
